@@ -1,0 +1,12 @@
+ITEM trashcan
+???
+\_/
+|_|
+ITEM usedTrashcan
+...
+\_/
+|_|
+ITEM vendingMachine
+|_|V
+|_|V
+|=|V

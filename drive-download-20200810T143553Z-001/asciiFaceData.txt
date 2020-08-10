@@ -1,0 +1,12 @@
+LLL-RRR
+|B   B|
+|E   E|
+|  N *blank*
+ \ M /
+  | |
+noses : > b p ) ^ c \ " : +
+eyes : o O 0 - D $ L C . , ' *
+mouths : O . + _ *
+eyebrows : - ^ _ = ~
+hairL : \ / ~
+hairR : \ / ~

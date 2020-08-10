@@ -1,0 +1,208 @@
+ok
+this is how you play
+the game called
+helping out your friends: the game: the prototype
+ok there will be a cylinder in front of you at all times
+this cylinder has all of your friends glued to it
+your friends are counting on you
+to help them get some items
+to make their day a little easier
+and of course, since they are your best friends
+why wouldn't you try to help them out
+even if some of them want items that you don't understand
+why anyone would want them
+ok
+this is how you help them out
+so this cylinder right
+you can rotate it towards you by typing 'u' without the quotes
+you move up a face by doing this
+to move it away from you
+type 'd'
+this moves you down a face
+all the info you need to know about the face you're on
+can be found in the box at the bottom
+if there is a trashcan with something in it
+they look like this
+???
+\_/
+|_|
+type 'take'
+you get the contents of the trashcan
+like you're a rat
+or a racoon
+you'll see all the items you have in that box under inventory
+wow
+ok
+so
+people will always tell you what they want
+      ~~~-///                                          \\\-///
+      |=   =|                                          |_   _|
+      |~   ~|__________________________________________|$   $|___________________________________________ ________
+      |  b *['marietta vinyl'] -> band t-shirt*        |  c *['band t-shirt'] -> halo: combat evolved*   /        \
+     / \ * /                                            \ . /                                           /          \
+    /   | |                         |_|V                 | |                                           /            \
+\\\-~~~                             |_|V         \\\-\\\                                             <-- you are here\
+|^   ^|                             |=|V         |_   _|                                             /                \
+|o   o|__________________________________________|'   '|____________________________________________/                  \
+|  c *['eucalyptus oils'] -> comic book*         |  " *['hulu subscription'] -> black nail polish* |                    |
+ \ O /                                            \ . /                                            |                    |
+  | |               ???       |_|V                 | |                                             |                    |
+|     ~~~-~~~       \_/       |_|V                     \\\-///                                     |                    |
+|     |=   =|       |_|       |=|V                     |=   =|                                     |                    |
+|_____|,   ,|__________________________________________|$   $|_____________________________________|                    |
+\     |  " *['hulu subscription'] -> weed*             |  + *['weed'] -> hulu subscription*        \                    /
+ \     \ . /                                            \ + /                                       \                  /
+  \     | |               ???       |_|V                 | |                                         \                /
+   \                      \_/       |_|V                                                              \              /
+    \                     |_|       |=|V                                                               \            /
+     \__________________________________________________________________________________________________\__________/
+person on the top here WANTS a marietta vinyl
+they'll give you a band shirt for it
+you can only help people on the face you're on
+which is always the top face
+to help this person out
+type 'help'
+if you have a marietta vinyl in your inventory
+you will be prompted to help them
+1
+~~~-///
+|=   =|
+|~   ~|
+|  b *['marietta vinyl'] -> band t-shirt*
+ \ * /
+  | |
+who do you want to help?
+
+type in the number above their head to help them
+there is no exiting this menu until you help someone
+i am sorry
+helping people is so great
+but
+sometimes people get jealous
+look
+      ~~~-///                                          ///-///
+      |=   =|                                          |=   =|
+      |~   ~|__________________________________________|0   0|___________________________________________ ________
+      |  c *['hulu subscription'] -> weed*             |  + *['hulu subscription'] -> eucalyptus oils*   /        \
+     / \ + /                                            \ . /                                           /          \
+    /   | |               ???       |_|V                 | |                                           /            \
+~~~-~~~                   \_/       |_|V         \\\-\\\                                             <-- you are here\
+|^   ^|                   |_|       |=|V         |_   _|                                             /                \
+|*   *|__________________________________________|'   '|____________________________________________/                  \
+|  c *['cigarettes'] -> black nail polish*       |  : *['black nail polish'] -> infinite jest*     |                    |
+ \ _ /                                            \ . /                                            |                    |
+  | |               ???       |_|V                 | |                                             |                    |
+|     ///-~~~       \_/       |_|V                     \\\-\\\                                     |                    |
+|     |-   -|       |_|       |=|V                     |~   ~|                                     |                    |
+|_____|'   '|__________________________________________|'   '|_____________________________________|                    |
+\     |  > *['cigarettes'] -> band t-shirt*            |  ^ *['marietta vinyl'] -> halo: combat evolved*                /
+ \     \ . /                                            \ O /                                       \                  /
+  \     | |               ???       |_|V                 | |                                         \                /
+   \                      \_/       |_|V                                                              \              /
+    \                     |_|       |=|V                                                               \            /
+     \__________________________________________________________________________________________________\__________/
+both these people want a hulu sub
+when i type help
+6
+~~~-///
+|=   =|
+|~   ~|
+|  c *['hulu subscription'] -> weed*
+ \ + /
+  | |
+8
+///-///
+|=   =|
+|0   0|
+|  + *['hulu subscription'] -> eucalyptus oils*
+ \ . /
+  | |
+I have to choose what person to help
+I will help the bottom person 8 because I dont want weed
+      ~~~-///
+      |=   =|
+      |~   ~|____________________________________________________________________________________________________________________________ ________
+      |  c *['hulu subscription', 'band t-shirt'] -> weed*                                                                               /        \
+     / \ + /                                                                                                                            /          \
+    /   | |               ???       |_|V                                                                                               /            \
+~~~-~~~                   \_/       |_|V                         \\\-\\\                                                             <-- you are here\
+|^   ^|                   |_|       |=|V                         |_   _|                                                             /                \
+|*   *|__________________________________________________________|'   '|____________________________________________________________/                  \
+|  c *['cigarettes'] -> black nail polish*                       |  : *['black nail polish'] -> infinite jest*                     |                    |
+ \ _ /                                                            \ . /                                                            |                    |
+  | |               ???       |_|V                                 | |                                                             |                    |
+|     ///-~~~       \_/       |_|V                                     \\\-\\\                                                     |                    |
+|     |-   -|       |_|       |=|V                                     |~   ~|                                                     |                    |
+|_____|'   '|__________________________________________________________|'   '|_____________________________________________________|                    |
+\     |  > *['cigarettes'] -> band t-shirt*                            |  ^ *['marietta vinyl'] -> halo: combat evolved*           \                    /
+ \     \ . /                                                            \ O /                                                       \                  /
+  \     | |               ???       |_|V                                 | |                                                         \                /
+   \                      \_/       |_|V                                                                                              \              /
+    \                     |_|       |=|V                                                                                               \            /
+     \__________________________________________________________________________________________________________________________________\__________/
+the person i didn't help
+literally watched me give their friend a hulu subscription right under their nose
+they are a lil hurt
+still your friend
+but a lil hurt
+so they demand a band t shirt now
+in addition to the hulu subscription
+ok
+final note
+vending machines
+you can find coins in trash cans
+wow
+in this economy
+if you 'take' a coin
+you can use them at the machines
+the machines look like this
+|_|V
+|_|V
+|=|V
+V for vending machine
+lol
+when you're on a face with a vending machine
+you will see a menu like this
+
++-------------------------------------------+
+|                                           |
+| there is a trashcan with somethin in it   |
+| coin                                      |
+| there is a vending machine                |
+|     coin -> black nail polish             |
+|     coin -> infinite jest                 |
+|     coin -> cigarettes                    |
+|     coin -> marietta vinyl                |
+|                                           |
+| Inventory:                                |
+| eucalyptus oils                           |
++-------------------------------------------+
+
+to get an item out of it
+ONLY if you have a coin
+type 'vend' and then the item you want
+for example
+if i want cigarettes
+type 'vend cigarettes'
+help your friends
+do good
+
+Also
+to run the game
+download python 3
+then go the the folder you downloaded the game to
+and run 'python3 main.py'
+please modify itemsInWorld.txt
+please have at least 6 items
+if the terminal seems frozen
+press control+C
+
+
+
+CHEAT SHEAT
+move up- 'u'
+move down - 'd'
+take from a trashcan - 'take'
+help someone on the top face - 'help'
+vend someothing - 'vend ' + item you want example: 'vend black nail polish'
+exit the game 'exit'
